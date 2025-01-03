@@ -1,0 +1,14 @@
+div {
+    position: relative;
+}
+
+.one {
+    background-color: black;
+    width: 68%;
+    border-radius: 10px;
+}
+
+
+.font {
+    font-family: sans-serif;
+}
